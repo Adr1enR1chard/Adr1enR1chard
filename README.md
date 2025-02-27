@@ -21,7 +21,6 @@ Welcome to my GitHub profile! I'm a passionate computer science student at Greno
 
 - **Grenoble INP - Ensimag** (2023 - 2026)
   - Major: Computer Science and Applied Mathematics
-  - Rank: 7th out of 250
   - Key Projects:
     - Software Engineering: Compiler for an object-oriented language in Java.
     - C Project: Graphics library in C.
