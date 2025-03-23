@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I'm a passionate computer science student at Greno
 - 📍 **Location:** Grenoble, France
 - 📧 **Contact:** [adrien.richard.contact@gmail.com](mailto:adrien.richard.contact@gmail.com)
 - 🔗 **LinkedIn:** [adrien-richard](https://fr.linkedin.com/in/adrien-richard-067a46296)
+- 🗃️ **Portfolio:** [https://adr1enr1chard.github.io/portfolio/](https://adr1enr1chard.github.io/portfolio/)
 
 ## 🛠️ Skills
 
