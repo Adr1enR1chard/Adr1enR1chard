@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate computer science student at Greno
 - 📧 **Contact:** [adrien.richard.contact@gmail.com](mailto:adrien.richard.contact@gmail.com)
 - 🔗 **LinkedIn:** [adrien-richard](https://fr.linkedin.com/in/adrien-richard-067a46296)
 - 🗃️ **Portfolio:** [https://adr1enr1chard.github.io/portfolio/](https://adr1enr1chard.github.io/portfolio/)
-- **Itch.io:** [https://adr1enr1chard.itch.io](https://adr1enr1chard.itch.io)
+- 🎮 **Itch.io:** [https://adr1enr1chard.itch.io](https://adr1enr1chard.itch.io)
 
 ## 🛠️ Skills
 
